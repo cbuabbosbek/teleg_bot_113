@@ -10,4 +10,6 @@ bot.on("message", function (msg) {
   bot.sendMessage(chatId, "Xush kelibsiz");
 });
 
+// npm install nodemon --save-dev
+
 console.log("Bot ishga tushdi...");
